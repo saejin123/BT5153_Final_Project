@@ -1,6 +1,5 @@
 # BT5153 Final Project
-
-## Applying Deep Learning to Identify Abnormal Bone Marrow Cells
+# Applying Deep Learning to Identify Abnormal Bone Marrow Cells
 
 ## Table of contents
 * [5C5K](Multiclass classification - 5 classes each with training 5000 samples)
