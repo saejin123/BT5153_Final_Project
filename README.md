@@ -1,6 +1,6 @@
 # BT5153 Final Project - Applying Deep Learning to Identify Abnormal Bone Marrow Cells
 
-## Group 7 • Hpone Myat Khine (A0125002E) • Jiang Feimiao (A0111496H) • Sae Jin Jang (A0231989M) • Tian Shi Xin Sophil (A0231875Y)
+### Group 7 • Hpone Myat Khine (A0125002E) • Jiang Feimiao (A0111496H) • Sae Jin Jang (A0231989M) • Tian Shi Xin Sophil (A0231875Y)
 
 ## Table of contents
 * [5C5K] Multiclass classification - 5 classes each with training 5000 samples
