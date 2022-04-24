@@ -8,4 +8,4 @@
 ### Each folder consists of 2 subfolders
 * notebooks - ipynb notebooks with results
 * csv - csv files for the prediction and label
-* models - Google Drive link to access saved final model
+* models - Google Drive link to access saved final models
