@@ -5,7 +5,7 @@
 * [5C5K_Cropped] Multiclass classification - Cropped data with 5 classes each with 5000 training samples
 * [OvR] One-vs-all Binary Classification - 2 classes each with 1000 samples
 	
-### Each folder consists of 2 subfolders
+### Each folder consists of 3 files
 * notebooks - ipynb notebooks with results
 * csv - csv files for the prediction and label
 * models - Google Drive link to access saved final models
